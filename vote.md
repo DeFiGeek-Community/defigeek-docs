@@ -6,13 +6,15 @@ The governance system consists of two ways of voting.
 
 * Reaction Voting
   * Using the reaction button on Discord
+* Forum Voting
+  * [https://gov.defigeek.xyz/](https://gov.defigeek.xyz/)
 * Snapshot Voting
   * Using TXJP tokens
   * [https://vote.defigeek.xyz/](https://vote.defigeek.xyz/)
 
-The supremacy order of voting is 1.Snapshot Voting and 2.Reaction Voting. Snapshot vote is the supreme voting for making resolutions on important matters. Any consensus built at reaction vote can be reassessed in snapshot voting if needed.
+The supremacy order of voting is 1st Snapshot Voting, 2nd Forum Voting and 3rd Reaction Voting. Snapshot vote is the supreme voting for making resolutions on important matters. Any consensus built at Reaction or Forum Voting can be reassessed in Snapshot Voting if needed.
 
-The Reaction Voting has been used to facilitate smooth daily operation. (i.e. sounding for multiple proposals or used as a questionnaire). Reaction voting can be used to reach consensus as a community.
+The Forum Voting and Reaction Voting should be used to facilitate day-to-day operations. (i.e. presounding multiple proposals or used as a questionnaire). Both voting methods can be used to reach community consensus.
 
 ## **Rules**
 
@@ -70,6 +72,16 @@ Rules:
 * In principle, a majority is considered as a decision.
 * In case of disagreement to the result, it is preferred to move to Snapshot Voting. (Snapshot Voting supersedes Reaction Voting)
 
+### **Forum Voting**
+
+Forum Voting is a voting feature in the comments section of a forum.
+
+Compared to Discord, Forum Voting is better suited for discussion if the topic is clear.
+
+If the topic is clear, you can kick off a discussion in the forum. If the topic is unclear, it is recommended to start the discussion on Discord first, work out the details of the proposal, and then move to the forum.
+
+In principle, the same rules apply as for Reaction Voting. It is recommended to announce on Discord when the voting starts at forum.
+
 ### **Snapshot Voting**
 
 Snapshot Voting is the supreme decision making for the community.&#x20;
@@ -77,4 +89,4 @@ Snapshot Voting is the supreme decision making for the community.&#x20;
 By its nature, the motion to set up a Snapshot Voting must be done with extra care. Specifically, the following considerations are assumed beforehand**.**
 
 * Discussion on discord server in advance
-* Sounding by using Reaction Voting
+* Presounding by using Reaction Voting or Forum Voting
